@@ -14,8 +14,8 @@ npm run dev
 Create a `.env.local` file:
 
 ```env
-VITE_SUPABASE_URL=https://uywqhypjhwhkbwrmoxqv.supabase.co
-VITE_SUPABASE_ANON_KEY=<>
+VITE_SUPABASE_URL=https:
+VITE_SUPABASE_ANON_KEY=
 VITE_ADMIN_PASSWORD=
 ```
 
