@@ -15,8 +15,8 @@ Create a `.env.local` file:
 
 ```env
 VITE_SUPABASE_URL=https://uywqhypjhwhkbwrmoxqv.supabase.co
-VITE_SUPABASE_ANON_KEY=<your-anon-key>
-VITE_ADMIN_PASSWORD=varungaud
+VITE_SUPABASE_ANON_KEY=<>
+VITE_ADMIN_PASSWORD=
 ```
 
 ## Deploy (Vercel / Netlify)
