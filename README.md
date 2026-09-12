@@ -1,4 +1,4 @@
-# Vault — Lecture Repository
+# Vaultx — Lecture Repository
 
 A course/lecture archive app powered by React + Vite + Supabase.
 
